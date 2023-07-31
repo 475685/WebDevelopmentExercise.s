@@ -1,0 +1,75 @@
+body, html { 
+   
+  background-image: url(horse.jpg);
+  display: inline;
+  
+  
+
+
+  
+}
+  
+  
+  
+  
+  
+  div1 {
+    display: inline-table;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    text-transform: capitalize;
+    color: rgb(81, 10, 7);
+    margin: 25px;
+    border: 0px solid transparent;
+    border-radius: 0%;
+    line-height: 100px;
+    lighting-color: aqua;
+    text-align: center;
+    width: 560px;
+    height: 380px;
+    background-image: url(nature.jpg);
+  }
+  div2 {
+    display: inline-table;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    color: rgb(28, 41, 222);
+    margin: 25px;
+    border: 0px solid transparent;
+    border-radius: 0%;
+    line-height: 100px;
+    lighting-color: blue;
+    text-align: center;
+    width: 560px;
+    height:380px;
+    background-image: url(rose.jpg);
+
+  }
+  div3 {
+    display: inline-table;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: rgb(109, 242, 187);
+    text-shadow: 1cm;
+    margin: 25px;
+    border: 0px solid transparent;
+    border-radius: 0%;
+    line-height: 100px;
+    lighting-color: azure;
+    text-align: center;
+    width: 560px;
+    height: 380px;
+    background-image: url(dodge.jpg);
+
+
+  }
+
+  style {
+   background-image: url('UNIVERSE.jpg');
+
+  }
+  
+  body {
+    margin: 100px auto;
+    width: max-content;
+  }
